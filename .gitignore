@@ -1,2 +1,3 @@
 venv/
 time_series.csv
+data/*.csv
